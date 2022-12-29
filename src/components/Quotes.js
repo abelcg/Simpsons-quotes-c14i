@@ -23,3 +23,4 @@ const Quotes = (props) => {
 };
 
 export default Quotes;
+
